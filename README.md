@@ -1,4 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Unit #4 Project: Your Portfolio Project
+[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
+
+Your Portfolio Project
 
 ### Overview
 
@@ -95,12 +97,12 @@ Imagine a realtime messaging client, but with private messages, an inbox, unread
 
 * __Total__: Your instructors will give you a total score on your project between:
 
-    Score | Expectations
-    ----- | ------------
-    **0** | _Incomplete._
-    **1** | _Does not meet expectations._
-    **2** | _Meets expectactions, good job!_
-    **3** | _Exceeds expectations, you wonderful creature, you!_
+| Score | Expectations                                         |
+|:------|:-----------------------------------------------------|
+| **0** | _Incomplete._                                        |
+| **1** | _Does not meet expectations._                        |
+| **2** | _Meets expectactions, good job!_                     |
+| **3** | _Exceeds expectations, you wonderful creature, you!_ |
 
  This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
 
