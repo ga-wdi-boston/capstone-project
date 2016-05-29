@@ -25,6 +25,8 @@ Your app must:
 -   **Build a full-stack application** by making your own backend and your own
     front-end
 -   **Have an API of your design**
+-   Have user-owned data **should said data be owned by a user** (this may or
+may not be the case depending on your application)
 -   **Have an interactive front-end**, preferably using a modern front-end
     framework
 -   **Be a complete product**, which most likely means multiple relationships
@@ -36,11 +38,13 @@ Your app must:
 -   **Have a visually impressive design** to kick your portfolio up a notch and
     have something to wow future clients and employers
 -   **Be deployed online** so it's publicly accessible
+-   **Not** have any obvious user facing errors.
 
 ## Necessary Deliverables
 
 -   A **working API**, hosted somewhere on the internet
--   A **working front-end**, hosted somewhere on the internet
+-   A **working client app**, hosted somewhere on the internet that consumes
+your API
 -   A **link to your hosted working app** in the URL section of your Github repo
 -   A **git repository hosted on Github**, with a link to your hosted project,
     and frequent commits dating back to the very beginning of the project
