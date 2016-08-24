@@ -87,10 +87,8 @@ for future projects.
     code means you won't get distracted changing your mind – you'll know what to
     build, and you can spend your time wisely by just building it.
 -   **Don’t hesitate to write throwaway code** to solve short term problems.
--   **Read the docs for whatever technologies / frameworks / API’s you use**.
+-   **Read the docs for whatever technologies / frameworks / APIs you use**.
 -   **Write your code DRY** and **build your APIs RESTful**.
--   **Be consistent with your code style.** You're working in teams, but you're
-    only making one app per team. Make sure it looks like a unified effort.
 -   **Commit early, commit often.** Don’t be afraid to break something because
     you can always go back in time to a previous version.
 -   **Keep user stories small and well-defined**, and remember – user stories
