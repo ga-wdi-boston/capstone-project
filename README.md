@@ -25,8 +25,7 @@ Your app must:
 -   **Build a full-stack application** by making your own backend and your own
     front-end
 -   **Have an API of your design**
--   Have user-owned data **should said data be owned by a user** (this may or
-may not be the case depending on your application)
+-   Any data that can be updated or deleted must be user owned and protected _or_ controlled by an [ACL](https://en.wikipedia.org/wiki/Access_control_list) (An ACL is a stretch goal).
 -   **Have an interactive front-end**, preferably using a modern front-end
     framework
 -   **Be a complete product**, which most likely means multiple relationships
@@ -42,14 +41,27 @@ may not be the case depending on your application)
 
 ## Necessary Deliverables
 
+### Planning Requirements
+
+On the _first day_ of project worktime, you must
+    commit:
+- A client README with user stories and wireframes
+- An api README with an ERD
+
+### Daily Requirements
+- You must have _at least_ one commit on _either_ your client or api repo for
+each day of project worktime.
+
+### Other Deliverables
 -   A **working API**, hosted somewhere on the internet
 -   A **working client app**, hosted somewhere on the internet that consumes
 your API
 -   A **link to your hosted working app** in the URL section of your Github repo
 -   A **git repository hosted on Github**, with a link to your hosted project,
     and frequent commits dating back to the very beginning of the project
--   **A ``readme.md`` file** with:
+-   **Two ``README.md`` files** with:
 
+    Client:
     -   An embedded screenshot of the app
     -   Explanations of the **technologies** used
     -   A couple paragraphs about the **general approach you took**
@@ -62,6 +74,23 @@ your API
         stories, and proposed architecture
     -   Descriptions of any **unsolved problems** or **major hurdles** you had
         to overcome
+
+    API:
+    - Links to your client-side application, deployed client app, and deployed
+      api.
+    - An ERD
+    - A list of your API routes
+    - **Installation instructions** for any dependencies
+    - Explanations of the **technologies** used
+    - A couple paragraphs about the **general approach you took**
+    - Descriptions of any **unsolved problems** or **major hurdles** you had
+        to overcome
+    - **Both** client and api repositories must be **pinned** on your GitHub page
+
+**IMPORTANT** If you do not meet the planning or daily requirements, you
+**cannot** meet expectations for this project.
+The final submission that you _must_ be the project you presented to the
+cohort.
 
 ## Overall Score
 
@@ -103,6 +132,17 @@ for future projects.
     someone else can pick it up and get it.
 -   **Write pseudocode before you write actual code.** Thinking through the
     logic of something helps.
+
+## Redoing Project Two
+
+You may choose to redo project two for your capstone project. Please remember
+that redoing a project means that you have one less thing to put in your final
+portfolio. There are special requirements for redoing project two:
+
+- In order to meet requirements, your new full-stack app must have a new feature
+  that was completed during capstone project week.
+- The client must be in Ember. Ember is not required if you do not re-do your second project.
+- A re-used API must have one new resource and one new relationship.
 
 ## Potential Project Ideas
 
