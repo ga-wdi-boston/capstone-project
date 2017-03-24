@@ -128,6 +128,17 @@ for future projects.
 -   **Write pseudocode before you write actual code.** Thinking through the
     logic of something helps.
 
+## Redoing Project Two
+
+You may choose to redo project two for your capstone project. Please remember
+that redoing a project means that you have one less thing to put in your final
+portfolio. There are special requirements for redoing project two:
+
+- In order to meet requirements, your new full-stack app must have a new feature
+  that was completed during capstone project week.
+- The client must be in Ember. Ember is not required if you do not re-do your second project.
+- A re-used API must have one new resource and one new relationship.
+
 ## Potential Project Ideas
 
 ### Q&A App
