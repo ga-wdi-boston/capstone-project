@@ -25,8 +25,7 @@ Your app must:
 -   **Build a full-stack application** by making your own backend and your own
     front-end
 -   **Have an API of your design**
--   Have user-owned data **should said data be owned by a user** (this may or
-may not be the case depending on your application)
+-   Any data that can be updated or deleted must be user owned and protected _or_ controlled by an [ACL](https://en.wikipedia.org/wiki/Access_control_list) (An ACL is a stretch goal).
 -   **Have an interactive front-end**, preferably using a modern front-end
     framework
 -   **Be a complete product**, which most likely means multiple relationships
