@@ -55,8 +55,9 @@ your API
 -   A **link to your hosted working app** in the URL section of your Github repo
 -   A **git repository hosted on Github**, with a link to your hosted project,
     and frequent commits dating back to the very beginning of the project
--   **A ``README.md`` file** with:
+-   **Two ``README.md`` files** with:
 
+    Client:
     -   An embedded screenshot of the app
     -   Explanations of the **technologies** used
     -   A couple paragraphs about the **general approach you took**
@@ -68,6 +69,17 @@ your API
     -   Link to your **pitch deck** – documentation of your wireframes, user
         stories, and proposed architecture
     -   Descriptions of any **unsolved problems** or **major hurdles** you had
+        to overcome
+
+    API:
+    - Links to your client-side application, deployed client app, and deployed
+      api.
+    - An ERD
+    - A list of your API routes
+    - **Installation instructions** for any dependencies
+    - Explanations of the **technologies** used
+    - A couple paragraphs about the **general approach you took**
+    - Descriptions of any **unsolved problems** or **major hurdles** you had
         to overcome
 
 **IMPORTANT** If you do not meet the planning or daily requirements, you
