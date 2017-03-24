@@ -42,13 +42,20 @@ may not be the case depending on your application)
 
 ## Necessary Deliverables
 
+-   **Planning Requirements** On the _first day_ of project worktime, you must
+    commit:
+    - A client README with user stories and wireframes
+    - An api README with an ERD
+-   **Daily Requirements**
+    - You must have _at least_ one commit on _either_ your client or api repo for
+    each day of project worktime.
 -   A **working API**, hosted somewhere on the internet
 -   A **working client app**, hosted somewhere on the internet that consumes
 your API
 -   A **link to your hosted working app** in the URL section of your Github repo
 -   A **git repository hosted on Github**, with a link to your hosted project,
     and frequent commits dating back to the very beginning of the project
--   **A ``readme.md`` file** with:
+-   **A ``README.md`` file** with:
 
     -   An embedded screenshot of the app
     -   Explanations of the **technologies** used
@@ -62,6 +69,11 @@ your API
         stories, and proposed architecture
     -   Descriptions of any **unsolved problems** or **major hurdles** you had
         to overcome
+
+**IMPORTANT** If you do not meet the planning or daily requirements, you
+**cannot** meet expectations for this project.
+The final submission that you _must_ be the project you presented to the
+cohort.
 
 ## Overall Score
 
